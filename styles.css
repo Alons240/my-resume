@@ -1,0 +1,30 @@
+﻿      
+  
+
+body{
+      font-size:0.925em;
+      color:#fcfcfc;
+      background-color:#000000;
+      font-family:Arial, Helvetica, sans-serif;	
+      border:0.5px solid;
+
+
+}
+
+header, hgroup{
+section
+
+	display:block;
+
+}
+
+h1, {
+       font-size:3.5em;
+       padding:1em 0  0 1em;
+       text-transform:none;
+}
+
+section{
+      background-color:#355664;
+      overflow:hidden;
+}
